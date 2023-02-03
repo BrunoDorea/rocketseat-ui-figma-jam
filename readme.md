@@ -1,5 +1,5 @@
 <h1 align="center">
-  Figma Jam
+  Figma Jam | Rocketseat
 </h1>
 
 <p align="center">
